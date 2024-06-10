@@ -11014,3 +11014,7 @@ section.resume-section .resume-section-content {
 .thumbnail-container:hover .overlay {
   opacity: 1;
 }
+
+.first-thumbnail {
+  padding-left: 10px;
+}
